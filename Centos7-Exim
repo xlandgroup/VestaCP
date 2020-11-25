@@ -1,0 +1,7 @@
+temporarily rejected RCPT
+failed to expand "${extract
+
+
+
+wget https://ca1.dynanode.net/exim-4.93-3.el7.x86_64.rpm
+rpm -Uvh --oldpackage exim-4.93-3.el7.x86_64.rpm
